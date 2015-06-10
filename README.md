@@ -20,5 +20,10 @@ The three resources are:
 This is a student project so watch out :)
 Source comments are in greek (more like greeklish).
 
+Some simulation parameters such as world size, can be changed from Main.cpp.
+
 Compile by running the make command.
-`make`
+```
+make
+./simulation
+```
