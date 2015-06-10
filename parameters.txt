@@ -1,0 +1,20 @@
+The parameters for the simulation are defined in Main.cpp (at the top).
+Run make to compile the project.
+
+Compiled at Ubuntu 13.04 with g++.
+
+$ g++ --version
+g++ (Ubuntu/Linaro 4.7.3-1ubuntu1) 4.7.3
+
+-----
+
+Οι παράμετροι για τη προσομοίωση ορίζονται στο Main.cpp στην ενότητα που 
+αναφέρει για τις παραμέτρους της προσομοίωσης.
+
+Για τη μεταγλώτιση και σύνδεση εκτελούμε make στο φάκελο του project 
+(υπάρχει το αντίστοιχο Makefile), που παράγει το εκτελέσιμο (simulation).
+
+H μεταγλώτιση έγινε σε Ubuntu 13.04 με το g++.
+
+$ g++ --version
+g++ (Ubuntu/Linaro 4.7.3-1ubuntu1) 4.7.3
